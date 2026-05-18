@@ -4,3 +4,5 @@ transformers
 streamlit
 scikit-learn
 datasets
+scikit-fuzzy
+numpy
